@@ -1,5 +1,5 @@
 {
-  "name": "@qsi/pouchdb-core",
+  "name": "@qsi/pouchdb-core-6",
   "version": "6.4.3",
   "description": "The core of PouchDB as a standalone package.",
   "main": "./lib/index.js",
